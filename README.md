@@ -1,8 +1,8 @@
-# ☕ Coffee Cafe — Landing Page
+# 🏋️ Your-Gym — Landing Page
 
-A warm and inviting café landing page built as a portfolio demo project. Designed to reflect the ambience of a real café — quality, comfort, and hospitality — through thoughtful UI and layout choices.
+A modern, responsive gym landing page built as a portfolio demo project. Designed to showcase clean UI/UX principles, effective use of layout and typography, and real-world product-style web design.
 
-🔗 **Live Demo:** [pranav-gt.github.io/Cafe-landing-page](https://pranav-gt.github.io/Cafe-landing-page/)
+🔗 **Live Demo:** [pranav-gt.github.io/GYM-landing-page](https://pranav-gt.github.io/GYM-landing-page/)
 
 ---
 
@@ -14,13 +14,13 @@ A warm and inviting café landing page built as a portfolio demo project. Design
 
 ## ✨ Features
 
-- **Hero Section** — Welcoming headline and tagline with Order Now & Contact Us CTAs
-- **About Section** — Brand story focused on quality coffee and warm hospitality
-- **Menu Section** — Six menu categories: Hot Beverages, Cold Beverages, Refreshments, Special Combos, Desserts, and Burgers & Fries
-- **Testimonials** — Five customer reviews with avatars showcasing community trust
-- **Gallery** — Six-image visual grid capturing the café's atmosphere
-- **Contact Section** — Address, email, phone, and opening hours with a contact form
-- **Fully Responsive** — Adapts seamlessly across desktop, tablet, and mobile
+- **Hero Section** — Bold headline with a strong call-to-action and key stats (105+ trainers, 970+ members, 135+ programs)
+- **About Section** — Brand story with a motivational tone and free trial CTA
+- **Programs Section** — Four fitness programs: Strength Training, Basic Yoga, Body Building, and Weight Loss
+- **Why Choose Us** — Highlights personal training, expert trainers, and flexible timing
+- **Testimonials** — Three real-style customer reviews with avatars
+- **Footer** — Navigation links, categories, contact info, and newsletter subscription prompt
+- **Fully Responsive** — Works across desktop, tablet, and mobile screen sizes
 
 ---
 
@@ -39,30 +39,21 @@ A warm and inviting café landing page built as a portfolio demo project. Design
 ## 📁 Project Structure
 
 ```
-Cafe-landing-page/
-├── index.html              # Main HTML file
-├── style.css               # Stylesheet
-├── script.js               # JavaScript (if any)
-└── images/
-    ├── hero__image.jpg
-    ├── about__image.jpg
-    ├── hot.png
-    ├── Cold.png
-    ├── RE.png
-    ├── combos.png
-    ├── cake.png
-    ├── B&F.png
-    ├── user-A.png
-    ├── user-B.png
-    ├── user-C.png
-    ├── user-D.png
-    ├── user-E.png
-    ├── gallery-1.jpg
-    ├── gallery-2.jpg
-    ├── gallery-3.jpg
-    ├── gallery-4.jpg
-    ├── gallery-5.jpg
-    └── gallery-6.jpg
+GYM-landing-page/
+├── index.html          # Main HTML file
+├── style.css           # Stylesheet
+├── script.js           # JavaScript (if any)
+└── image/
+    ├── Hero__image.png
+    ├── about.png
+    ├── program-1.png
+    ├── program-2.png
+    ├── program-3.png
+    ├── program-4.png
+    ├── service.png
+    ├── user-1.jpg
+    ├── user-2.jpg
+    └── user-3.jpg
 ```
 
 ---
@@ -73,10 +64,10 @@ To run locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/pranav-gt/Cafe-landing-page.git
+git clone https://github.com/pranav-gt/GYM-landing-page.git
 
 # Navigate into the folder
-cd Cafe-landing-page
+cd GYM-landing-page
 
 # Open in browser
 open index.html
@@ -92,8 +83,8 @@ This project was built as a **portfolio demo** to demonstrate front-end developm
 
 - Semantic HTML structure
 - Responsive CSS layouts
-- Multi-section landing page architecture
-- Real-world UI patterns (hero, menu cards, gallery grid, testimonials, contact form)
+- Section-based landing page architecture
+- Real-world UI patterns (hero, features, testimonials, footer)
 
 ---
 
@@ -103,4 +94,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-> Built with ☕ by [Pranav](https://github.com/pranav-gt)
+> Built with 💪 by [Pranav](https://github.com/pranav-gt)
